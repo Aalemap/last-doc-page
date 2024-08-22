@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../INTRODUCTION/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "A THREE PAGE WEBSITE"
+	}
+}
